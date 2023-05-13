@@ -96,7 +96,7 @@ and(y6,a0bar,a1,a2);
 and(y7,a0,a1,a2);
 endmodule
 ```
-<br>
+
 ### RTL LOGIC  
 #### ENCODER
 ![enc rtl](https://github.com/Jenishajustin/Experiment-08-Encoders-and-decoders-/assets/119405070/20f6413e-e974-4f17-a3b3-cc1478d49ffd)
